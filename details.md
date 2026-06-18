@@ -68,6 +68,16 @@ All dates and times are PDT (Pacific Time). Please note that the exact timing of
 | 11:45am - 12:00pm | Closing Remarks | Oakes Learning Center |
 
 
+
+## Map of Oakes
+
+![Map of Oakes College](imgs/oakes_college_map.png)
+
+
+
+
+
+
 ## Recording Policy
 We are going to record to workshop to enable broader access to the materials from Code/Astro. We will share the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
 
